@@ -17,3 +17,5 @@ Then edit host and add your server's credentials.
 
 ### Security Recommendations
 I'd advise to use ssh-keys for better security and be sure to use a non-administrative user with the only purpose of ssh tunneling.
+
+Check [this](https://askubuntu.com/a/50000) post for more information.
